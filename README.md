@@ -2,7 +2,7 @@ The following is a list of free, open source books on machine learning, statisti
 
 ## Machine-Learning / Data Mining
 
-* [Good Kaggle Intro] (https://www.kaggle.com/dvideses/introduction-to-data-science?scriptVersionId=5409828)
+* [Good Kaggle Intro](https://www.kaggle.com/dvideses/introduction-to-data-science?scriptVersionId=5409828)
 * [Real World Machine Learning](https://www.manning.com/books/real-world-machine-learning) [Free Chapters]
 * [Reinforcement Learning: - An Introduction](http://incompleteideas.net/book/the-book-2nd.html) ([Permalink to Nov 2017 Draft](https://perma.cc/83ER-64M3))
 * [Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
